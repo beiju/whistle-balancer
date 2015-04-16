@@ -5,4 +5,5 @@ Arduino code for a whistle-controlled two-wheel balancing robot in the very earl
 This code depends on the following libraries:
 
 http://wiki.openmusiclabs.com/wiki/ArduinoFHT
-http://www.i2cdevlib.com/devices/mpu6050
+
+https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050
